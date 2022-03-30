@@ -17,3 +17,30 @@
 #punainen-kohta {
     color: red;
 }
+
+.first-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+}
+
+.second-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    margin-left: 240px;
+}
+
+.third-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    margin-left: 480px;
+}
+
+
+
+
