@@ -1,3 +1,19 @@
-p {
-    background-color: red;
+.sininen-teksti {
+    color: blue;
+}
+
+.punainen-teksti {
+    color: red;
+}
+
+.viininpunainen-teksti {
+    color: #a52a29;
+}
+
+.pinkki-teksti {
+    color: #f3a7f3;
+}
+
+#punainen-kohta {
+    color: red;
 }
